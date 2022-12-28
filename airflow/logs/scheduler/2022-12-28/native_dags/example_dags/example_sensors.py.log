@@ -1,0 +1,18 @@
+[2022-12-28T17:38:46.195-0300] {processor.py:153} INFO - Started process (PID=13683) to work on /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2022-12-28T17:38:46.195-0300] {processor.py:743} INFO - Processing file /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2022-12-28T17:38:46.196-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:38:46.196-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2022-12-28T17:38:46.212-0300] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2022-12-28T17:38:46.297-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:38:46.297-0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_sensors
+[2022-12-28T17:38:46.303-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:38:46.303-0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_sensors
+[2022-12-28T17:38:46.309-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:38:46.309-0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_sensors
+[2022-12-28T17:38:46.309-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:38:46.309-0300] {dag.py:2676} INFO - Sync 1 DAGs
+[2022-12-28T17:38:46.317-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:38:46.317-0300] {dag.py:2697} INFO - Creating ORM DAG for example_sensors
+[2022-12-28T17:38:46.325-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:38:46.325-0300] {dag.py:3423} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2022-12-28T17:38:46.339-0300] {processor.py:175} INFO - Processing /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py took 0.147 seconds
+[2022-12-28T17:39:26.442-0300] {processor.py:153} INFO - Started process (PID=13732) to work on /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2022-12-28T17:39:26.445-0300] {processor.py:743} INFO - Processing file /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2022-12-28T17:39:26.446-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:39:26.446-0300] {dagbag.py:538} INFO - Filling up the DagBag from /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2022-12-28T17:39:26.469-0300] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2022-12-28T17:39:26.503-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:39:26.503-0300] {dag.py:2676} INFO - Sync 1 DAGs
+[2022-12-28T17:39:26.523-0300] {logging_mixin.py:137} INFO - [2022-12-28T17:39:26.522-0300] {dag.py:3423} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2022-12-28T17:39:26.548-0300] {processor.py:175} INFO - Processing /home/debian/Documentos/PYTHONJOBS/airflowapp/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py took 0.111 seconds
